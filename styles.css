@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f70000;
+}
+
+header {
+    background-color: #31150e;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.main-section, .details-section {
+    padding: 2em;
+    text-align: center;
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    padding: 0.5em 1em;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #076780;
+}
+
+footer {
+    background-color: #9fa731;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
